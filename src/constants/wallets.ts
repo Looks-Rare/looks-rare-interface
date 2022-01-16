@@ -120,6 +120,7 @@ const wallets = (chainId: number) => {
       rpcUrl: RPC_URL,
     },
     { walletName: 'hyperpay' },
+    { walletName: 'tally' },
     { walletName: 'wallet.io', rpcUrl: RPC_URL },
     { walletName: 'atoken' },
   ];
